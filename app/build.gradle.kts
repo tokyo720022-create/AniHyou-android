@@ -184,7 +184,6 @@ dependencies {
 
     implementation(libs.androidx.lifecycle.viewmodel.navigation3)
 
-    "gmsImplementation"(libs.androidx.wear.remote.interactions)
 
     implementation(libs.accompanist.permissions)
 
